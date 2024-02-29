@@ -73,8 +73,9 @@ print("RMSE= ",rmse)
 ### MSE,MAE and RMSE
 ![output](./images/values.png)
 ### Training Set
-![output](./images/train.png)
+![image](https://github.com/rakshithaprakashkumar11/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150994181/04ca23c9-aa1e-4eb4-af90-2f70e021d8eb)
 ### Testing Set
-![output](./images/test.png)
+![image](https://github.com/rakshithaprakashkumar11/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150994181/5667c441-5271-41b6-8642-a4187000f7d0)
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
